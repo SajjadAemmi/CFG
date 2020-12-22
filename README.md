@@ -1,5 +1,3 @@
-![pyCFG](http://mahdavipanah.com/blog/wp-content/uploads/2017/01/pycfg.png)
-
 CFG is a library for working with context free grammars (CFG) in [Python](https://www.python.org/).
 
 ## Using library
